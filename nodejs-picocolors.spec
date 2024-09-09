@@ -1,5 +1,5 @@
 Name: nodejs-picocolors
-Version: 1.0.1
+Version: 1.1.0
 Release: 1
 Source0: https://github.com/alexeyraspopov/picocolors/archive/refs/tags/v%{version}.tar.gz
 Summary: Node.js library for terminal output formatting with ANSI colors
